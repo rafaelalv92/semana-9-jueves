@@ -1,10 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
-
-use Illuminate\Support\Facades\View;
 use Illuminate\Http\Request;
 use App\Models\Comercio;
+use Illuminate\View\View;
 
 class ComercioController extends Controller 
 { 
